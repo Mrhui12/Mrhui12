@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gait data analyse
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me  TEl 1224864103@qq.com
+- 📫 How to reach me  TEl jh.tang2@siat.ac.cn
 
 
 <!---
